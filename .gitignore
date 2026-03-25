@@ -73,3 +73,23 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# JetBrains Rider / IntelliJ
+.idea/
+
+# VSCode
+.vscode/
+
+# Logs / temp
+*.log
+*.tmp
+
+# Crash dumps
+*.dmp
